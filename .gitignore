@@ -15,11 +15,12 @@ paper/*
 !paper/.gitkeep
 !paper/*.md
 !paper/*.pdf
+!paper/*.docx
+!paper/*.py
 venv/
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 *.xlsx
-*.docx
 .claude/
